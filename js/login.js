@@ -50,7 +50,8 @@ function login(){
 	var username = document.getElementById('username').value;
     var password = document.getElementById('password').value;
     if(username == 'user' && password == lock){
-        window.location.replace(window.location.origin + "/mainpage.html");
+		console.log()
+        window.location.replace(window.location.origin + "/Artistry/mainpage.html");
     }else{
         alert('Wrong credentials try again !!!')
     }

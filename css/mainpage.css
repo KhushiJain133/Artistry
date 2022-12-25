@@ -144,132 +144,132 @@ body{
     position: relative;
   }
   .card0 {
-    background: url("img/Ganesha.jpg") center center no-repeat;
+    background: url("../img/Ganesha.jpg") center center no-repeat;
     background-size: 300px;
   }
   .card0:hover {
-    background: url("img/Ganesha.jpg") left center no-repeat;
+    background: url("../img/Ganesha.jpg") left center no-repeat;
     background-size: 600px;
   }
   .card0:hover .h2 {
     opacity: 1;
   }
   .card1 {
-    background: url("img/leaf.png") center center no-repeat;
+    background: url("../img/leaf.png") center center no-repeat;
     background-size: 300px;
   }
   .card1:hover {
-    background: url("img/leaf.png") left center no-repeat;
+    background: url("../img/leaf.png") left center no-repeat;
     background-size: 600px;
   }
   .card1:hover .h2 {
     opacity: 1;
   }
   .card2 {
-    background: url("img/ganesh.png") center center no-repeat;
+    background: url("../img/ganesh.png") center center no-repeat;
     background-size: 300px;
   }
   .card2:hover {
-    background: url("img/ganesh.png") left center no-repeat;
+    background: url("../img/ganesh.png") left center no-repeat;
     background-size: 600px;
   }
   .card2:hover .h2 {
     opacity: 1;
   }
   .card3 {
-    background: url("img/butterfly.jpeg") center center no-repeat;
+    background: url("../img/butterfly.jpeg") center center no-repeat;
     background-size: 300px;
   }
   .card3:hover {
-    background: url("img/butterfly.jpeg") left center no-repeat;
+    background: url("../img/butterfly.jpeg") left center no-repeat;
     background-size: 600px;
   }
   .card3:hover .h2 {
     opacity: 1;
   }
   .card4 {
-    background: url("img/clower.png") center center no-repeat;
+    background: url("../img/clower.png") center center no-repeat;
     background-size: 300px;
   }
   .card4:hover {
-    background: url("img/clower.png") left center no-repeat;
+    background: url("../img/clower.png") left center no-repeat;
     background-size: 600px;
   }
   .card4:hover .h2 {
     opacity: 1;
   }
   .card5 {
-    background: url("img/peacock.jpg") center center no-repeat;
+    background: url("../img/peacock.jpg") center center no-repeat;
     background-size: 300px;
   }
   .card5:hover {
-    background: url("img/peacock.jpg") left center no-repeat;
+    background: url("../img/peacock.jpg") left center no-repeat;
     background-size: 600px;
   }
   .card5:hover .h2 {
     opacity: 1;
   }
   .card6 {
-    background: url("img/plant.jpeg") center center no-repeat;
+    background: url("../img/plant.jpeg") center center no-repeat;
     background-size: 300px;
   }
   .card6:hover {
-    background: url("img/plant.jpeg") left center no-repeat;
+    background: url("../img/plant.jpeg") left center no-repeat;
     background-size: 600px;
   }
   .card6:hover .h2 {
     opacity: 1;
   }
   .card7 {
-    background: url("img/cat.jpeg") center center no-repeat;
+    background: url("../img/cat.jpeg") center center no-repeat;
     background-size: 300px 400px;
   }
   .card7:hover {
-    background: url("img/cat.jpeg") left center no-repeat;
+    background: url("../img/cat.jpeg") left center no-repeat;
     background-size: 600px;
   }
   .card7:hover .h2 {
     opacity: 1;
   }
   .card8 {
-    background: url("img/cloud.jpeg") center center no-repeat;
+    background: url("../img/cloud.jpeg") center center no-repeat;
     background-size: 300px 400px;
   }
   .card8:hover {
-    background: url("img/cloud.jpeg") left center no-repeat;
+    background: url("../img/cloud.jpeg") left center no-repeat;
     background-size: 600px;
   }
   .card8:hover .h2 {
     opacity: 1;
   }
   .card9 {
-    background: url("img/sclupture.jpg") center center no-repeat;
+    background: url("../img/sclupture.jpg") center center no-repeat;
     background-size: 300px 400px;
   }
   .card9:hover {
-    background: url("img/sclupture.jpg") left center no-repeat;
+    background: url("../img/sclupture.jpg") left center no-repeat;
     background-size: 600px;
   }
   .card9:hover .h2 {
     opacity: 1;
   }
   .card10 {
-    background: url("img/kalam.jpeg") center center no-repeat;
+    background: url("../img/kalam.jpeg") center center no-repeat;
     background-size: 300px 400px;
   }
   .card10:hover {
-    background: url("img/kalam.jpeg") left center no-repeat;
+    background: url("../img/kalam.jpeg") left center no-repeat;
     background-size: 600px;
   }
   .card10:hover .h2 {
     opacity: 1;
   }
   .card11 {
-    background: url("img/buddha.jpeg") center center no-repeat;
+    background: url("../img/buddha.jpeg") center center no-repeat;
     background-size: 300px 400px;
   }
   .card11:hover {
-    background: url("img/buddha.jpeg") left center no-repeat;
+    background: url("../img/buddha.jpeg") left center no-repeat;
     background-size: 600px;
   }
   .card11:hover .h2 {
